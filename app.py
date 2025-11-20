@@ -1,1 +1,2 @@
-#testing comment 
+
+print("Welcome to my Python program!")
